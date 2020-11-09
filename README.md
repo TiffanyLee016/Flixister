@@ -1,10 +1,10 @@
-# Flixister
+# Flixster
 
-Flixister is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
 
-## Flixister Part 2
+## Flixster Part 2
 
 ### User Stories
 
@@ -23,7 +23,7 @@ Flixister is an app that allows users to browse movies from the [The Movie Datab
 ### Notes
 I had trouble with the collection view layout because my posters appeared in small cubes. However, I quickly realized that I forgot to modify the estimate size of your collection view.
 
-## Flixister Part 1
+## Flixster Part 1
 
 ### User Stories
 
